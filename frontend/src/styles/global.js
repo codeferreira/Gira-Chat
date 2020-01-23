@@ -18,7 +18,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
   body, input, button {
-    font: 14px 'Roboto', sans-serif;
+    font: 14px 'Montserrat', sans-serif;
   }
   a {
     text-decoration: none;
